@@ -20,7 +20,7 @@ A Python-based validator for XLIFF 2.2 files using local OASIS schema files.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/piotr-bienkowski/Xliff2-validator.git
+git clone https://github.com/piotr-bienkowski/Xliff22-validator.git
 cd xliff-validator
 ```
 
